@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+  /*   background-image: url("background3.svg");*/
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.avatar{
+  height:70%;
+  padding:10px;
+  background-color:grey;
+  ;
+}
+
+.green{
+  background-color: green
+}
