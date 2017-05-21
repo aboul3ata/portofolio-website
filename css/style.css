@@ -72,3 +72,7 @@ h1 {
 .p a {
   text-decoration: underline;
 }
+
+a.twitter-logo {
+    background-image: url(../img3.svg);
+}
